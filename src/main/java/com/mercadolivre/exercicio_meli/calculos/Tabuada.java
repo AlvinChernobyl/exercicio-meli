@@ -13,5 +13,6 @@ public class Tabuada {
             int resultado = numero * i;
             System.out.println(numero + " x " + i + " = " + resultado);
         }
+        sc.close();
     }
 }
